@@ -1,10 +1,19 @@
 # The VALORANT match history bot for Discord
 
 > [Add it to your discord server! →](https://discord.com/login?redirect_to=%2Foauth2%2Fauthorize%3Fclient_id%3D748496226420260895%26scope%3Dbot%26permissions%3D0)
+## Table of content
+
+- [Usage](#usage)
+- [Disclaimer](#disclaimer)
+
+
+
 
 <p align="center">
   <img src="assets/valorant.png" alt="gopher" width="300"/>
 </p>
+
+
 
 
 ## Usage
@@ -14,9 +23,9 @@
 
 ## Disclaimer
 
-This is only used to show a players match history its an easy acces to show them their matches.
+This is only used to show a players match history its an easy acces to show them their matches. This isnt fully working yet. I need the VALORANT api to load the matches in.
 
-### To copy this project
+## To copy this project
 
 * Run following commands in the terminal:
 ```

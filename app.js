@@ -34,6 +34,9 @@ client.on('message', msg => {
         case '!showmatches':
         msg.reply(ValorantMatch);
         break;
+        case '!showm':
+            msg.reply(ValorantMatch);
+            break;
     } }
     }
 });
